@@ -1,9 +1,4 @@
 {
-  "cSpell.words": [
-    "ampm",
-    "liab",
-    "Txns",
-    "xmark"
-  ],
-  "liveServer.settings.port": 5501
+  "cSpell.words": ["ampm", "liab", "Txns", "xmark"],
+  "liveServer.settings.port": 5502
 }
